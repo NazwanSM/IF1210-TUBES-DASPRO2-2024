@@ -1,0 +1,12 @@
+ID;Type;ATK_power;DEF_power;HP
+1;Pikachu;50;40;320
+2;Bulbasaur;250;45;900
+3;Charmander;52;43;320
+4;Squirtle;48;25;310
+5;Jigglypuff;45;20;570
+6;Eevee;55;50;340
+7;Snorlax;110;20;680
+8;Mewtwo;110;10;680
+9;Psyduck;52;48;320
+10;Meowth;45;35;290
+11;tes;20;10;20
